@@ -1,6 +1,6 @@
 # Spreadsheet Error Dataset
 
-The **Spreadsheet Error dataset** contains 70 spreadsheets from 8 categories, 291 worksheets and 3,072 missing formulas and formula errors (which are two types of popular spreadsheet errors). This is the dataset used by our ISSTA 2021 paper: **Semantic Table Structure Identification in Spreadsheets**, 
+The **Spreadsheet Error dataset** contains 70 spreadsheets from 8 categories, 291 worksheets and 3,072 missing formulas and formula errors (which are two types of popular spreadsheet errors). This is the dataset used by our ISSTA 2021 paper: **Semantic Table Structure Identification in Spreadsheets**.
 
 This dataset includes three folders.
 
